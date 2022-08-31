@@ -34,7 +34,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/messiasgabriel/404-not-found/main/Screenshot.png)
 
 This is a Challenge from https://devchallenges.io/ 
 I'm learning web development. So I was able to test and improve my skills with this challenge ;)
